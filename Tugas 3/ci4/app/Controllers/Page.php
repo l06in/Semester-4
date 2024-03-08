@@ -19,6 +19,9 @@ class page extends BaseController
 
     public function tos()
     {
-        echo "Mochamad imamudin";
+        echo "Nama          : Mochamad imamudin";
+        echo "TTL           : Jombang, 24 Oktober 2003";
+        echo "Alamat        : Desa Keras Kecamatan Diwek Kabaupaten Jombang ";
+        echo "Jenis Kelamin : laki-laki";
     }
 }
