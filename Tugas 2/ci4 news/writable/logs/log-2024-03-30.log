@@ -1,0 +1,69 @@
+CRITICAL - 2024-03-30 01:11:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages,about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages,about.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages,about', [], true)
+ 3 APPPATH\Controllers\Pages.php(12): view('pages,about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\PC\\Semester-4\\Tugas 2\\ci4 news\\public\\index.php')
+CRITICAL - 2024-03-30 01:13:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/home.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/home.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/home', [], true)
+ 3 APPPATH\Controllers\Pages.php(13): view('page/home', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\PC\\Semester-4\\Tugas 2\\ci4 news\\public\\index.php')
+CRITICAL - 2024-03-30 01:13:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/about.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(21): view('page/about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\PC\\Semester-4\\Tugas 2\\ci4 news\\public\\index.php')
+CRITICAL - 2024-03-30 01:20:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/about.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(21): view('page/about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\PC\\Semester-4\\Tugas 2\\ci4 news\\public\\index.php')
+CRITICAL - 2024-03-30 01:20:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/about.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(21): view('page/about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\PC\\Semester-4\\Tugas 2\\ci4 news\\public\\index.php')
+CRITICAL - 2024-03-30 01:21:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/contact.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/contact.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 3 APPPATH\Controllers\Pages.php(33): view('page/contact', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->contact()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\PC\\Semester-4\\Tugas 2\\ci4 news\\public\\index.php')
+CRITICAL - 2024-03-30 01:21:57 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\Pages/Home::index"
+in SYSTEMPATH\Router\Router.php on line 480.
+ 1 SYSTEMPATH\Router\Router.php(480): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\Pages/Home::index')
+ 2 SYSTEMPATH\Router\Router.php(187): CodeIgniter\Router\Router->checkRoutes('/')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('/')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\PC\\Semester-4\\Tugas 2\\ci4 news\\public\\index.php')
