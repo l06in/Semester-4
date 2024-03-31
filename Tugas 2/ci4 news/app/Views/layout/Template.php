@@ -18,6 +18,7 @@
                     <a class="nav-link active" aria-current="#" href="/">Home</a>
                     <a class="nav-link" aria-current="#" href="/pages/about">About</a>
                     <a class="nav-link" aria-current="#" href="/pages/contact">Kontak</a>
+                    <a class="nav-link" aria-current="#" href="/books/index">books</a>
                     <a class="nav-link disable" aria-disabled="true">disable</a>
                 </div>
             </div>
